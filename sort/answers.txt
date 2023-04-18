@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: in the tests bubble sort was the slower one, so in my tests this sort it was the slower.
+
+sort2 uses: merge sort
+
+How do you know?: because in the tests merge sort was the fatest way to sort, and in my tests sort2 was the fatest
+
+sort3 uses: selection sort
+
+How do you know?: by elimination
